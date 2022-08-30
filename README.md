@@ -47,5 +47,5 @@ To run Bolt afterwards, do `yarn tauri:serve`.
 
 
 ## 📚 Help & Support
-If you need help or tech support for your Lazap installation, feel free to file an [issue](https://github.com/killerclaws12/Bolt/issues) so we can assist you.<br><br>
+If you need help or tech support for your Bolt installation, feel free to file an [issue](https://github.com/killerclaws12/Bolt/issues) so we can assist you.<br><br>
 **Want to help out insted of getting help?** We love Pull Requests and Issue hunters. Open up a PR and fix some gears, we would love the community's help to improve lazap and make it more user friendly.
